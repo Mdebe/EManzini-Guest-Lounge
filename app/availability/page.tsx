@@ -7,7 +7,7 @@ const demoRooms = [
   {
     id: 1,
     name: "Standard Room",
-    image: "/images/room1.jpg",
+    image: "/images/rooms.jpg",
     price: 750,
     available: true,
   },

@@ -18,7 +18,7 @@ const loungeEvents = [
     title: "Wine Tasting Experience",
     date: "2026-03-12",
     description: "Sample exclusive wines with expert sommeliers.",
-    image: "/images/event2.jpg",
+    image: "/images/n1.jpg",
     type: "Food & Drinks",
   },
   {
@@ -34,7 +34,7 @@ const loungeEvents = [
     title: "Art & Networking Evening",
     date: "2026-03-25",
     description: "Meet local artists and enjoy an evening of networking.",
-    image: "/images/event4.jpg",
+    image: "/images/room3.jpg",
     type: "Networking",
   },
 ];

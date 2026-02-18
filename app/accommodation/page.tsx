@@ -6,7 +6,7 @@ import Link from "next/link";
 const rooms = [
   {
     name: "Standard Room",
-    image: "/images/room1.jpg",
+    image: "/images/rooms.jpg",
     price: "From R750 / night",
     features: [
       "Queen Bed",
@@ -144,7 +144,7 @@ export default function AccommodationPage() {
 
         <div className="grid md:grid-cols-3 gap-6">
           {[
-            "/images/s2.jpg",
+            "/images/b2.jpg",
             "/images/s3.jpg",
             "/images/s6.jpg",
           ].map((img) => (
